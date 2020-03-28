@@ -5,6 +5,8 @@
 
 <h4 align="center">View livestreams from dlive.tv on <a href="https://www.stremio.com/" target="_blank">Stremio</a></h4>
 
+** THIS REPOSITORY HAS BEEN MOVED TO [sleeyax/stremio-addons](https://git.io/JvQGc) **
+
 # Features
 * Filter by genre
 * Filter by most popular streams (Top)
